@@ -1,7 +1,7 @@
 ## These functions provide the ability to cache the results of time consuming
 ## computations so that they can be looked up later instead of computing
 ## them again. These examples are applied to matrix inversion which can be a
-## costly computation.
+## costly computation.a
 
 ## The first function will create a speacial matrix object that can cache it's 
 ## inverse.
